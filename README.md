@@ -10,6 +10,19 @@ The dashboard is structured into two main analytical sections:
 
 ---
 
+## 🎯 Business Problem  
+HR departments need structured insights into workforce data to monitor employee trends, optimize talent management, and improve organizational performance.
+
+---
+
+## ✅ Business Impact  
+- Provided visibility into workforce KPIs such as hiring, attrition, and demographics  
+- Enabled data-driven workforce planning and talent management  
+- Identified trends in employee lifecycle and organizational structure  
+- Improved decision-making through interactive HR analytics dashboards  
+
+---
+
 ## 🎯 Objectives
 - Analyze **workforce trends** and **HR KPIs**
 - Monitor **employee lifecycle metrics** (Active, Hired, Terminated)
